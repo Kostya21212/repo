@@ -1,0 +1,3 @@
+[submodule "my-new-app"]
+    path = my-new-app
+    url = https://github.com/Kostya21212/HomeWork389.git
