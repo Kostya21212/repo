@@ -2,7 +2,7 @@
   "name": "my-new-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Kostya21212.github.io/repo-name",
+  "homepage": "https://kostya21212.github.io/my-new-app/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
