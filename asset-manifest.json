@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/repo-name/static/css/main.ca74b725.css",
+    "main.js": "/repo-name/static/js/main.b1ad1aad.js",
+    "static/js/453.0a9f4b6c.chunk.js": "/repo-name/static/js/453.0a9f4b6c.chunk.js",
+    "static/media/dreamy-aesthetic-color-year-tones-nature-landscape.jpg": "/repo-name/static/media/dreamy-aesthetic-color-year-tones-nature-landscape.1dcb731aa717d8948f25.jpg",
+    "static/media/beautiful-kitten-with-flowers-outdoors.jpg": "/repo-name/static/media/beautiful-kitten-with-flowers-outdoors.9f00f5f137c662878518.jpg",
+    "static/media/cute-kitten-sitting-outdoors-playful-staring-toy-generated-by-artificial-intelligence.jpg": "/repo-name/static/media/cute-kitten-sitting-outdoors-playful-staring-toy-generated-by-artificial-intelligence.4a15b483fabfd6fd0b97.jpg",
+    "static/media/cute-kitten-sitting-outdoors-looking-camera-surrounded-by-snow-generated-by-artificial-intelligence.jpg": "/repo-name/static/media/cute-kitten-sitting-outdoors-looking-camera-surrounded-by-snow-generated-by-artificial-intelligence.1edf2fcd9f4904962aee.jpg",
+    "static/media/cute-domestic-kitten-sits-window-staring-outside-generative-ai.jpg": "/repo-name/static/media/cute-domestic-kitten-sits-window-staring-outside-generative-ai.1107304883637a569bd2.jpg",
+    "static/media/bird-colorful-gradient-design-vector.png": "/repo-name/static/media/bird-colorful-gradient-design-vector.d9de23ba8beef45ca2ba.png",
+    "static/media/bootstrap-icons.woff?": "/repo-name/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/repo-name/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/repo-name/index.html",
+    "main.ca74b725.css.map": "/repo-name/static/css/main.ca74b725.css.map",
+    "main.b1ad1aad.js.map": "/repo-name/static/js/main.b1ad1aad.js.map",
+    "453.0a9f4b6c.chunk.js.map": "/repo-name/static/js/453.0a9f4b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca74b725.css",
+    "static/js/main.b1ad1aad.js"
+  ]
+}
