@@ -12,6 +12,7 @@ function App() {
     <HeaderFunction />
       <LeftSideNavigation />
       <MiddleContainer />
+      
       <Footer />
    </div>
   );
